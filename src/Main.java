@@ -7,8 +7,7 @@ import java.util.Random;
 public class Main {
 
 	/**
-	 * Demonstrates a binomial and negative binomal process
-	 * @param args
+	 * Demonstrates a binomial and negative binomial process
 	 */
 	public static void main(String[] args) {
 		binomial();
